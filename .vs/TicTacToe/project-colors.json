@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35d31368-e830-4684-b231-ec51fa8d9e95": {
+      "ProjectGuid": "35d31368-e830-4684-b231-ec51fa8d9e95",
+      "DisplayName": "Contracts",
+      "ColorIndex": 0
+    },
+    "cb31f019-80c6-4e6c-aa71-4268e4a9f5c4": {
+      "ProjectGuid": "cb31f019-80c6-4e6c-aa71-4268e4a9f5c4",
+      "DisplayName": "Users.API",
+      "ColorIndex": 1
+    },
+    "71ef644f-7982-4a26-bf62-18c7942337ca": {
+      "ProjectGuid": "71ef644f-7982-4a26-bf62-18c7942337ca",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    },
+    "ca9485a4-57bd-4e67-83c0-4872e4426759": {
+      "ProjectGuid": "ca9485a4-57bd-4e67-83c0-4872e4426759",
+      "DisplayName": "TicTacToeGame.API",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
